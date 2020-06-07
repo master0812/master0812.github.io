@@ -1,2 +1,1 @@
-# master0812.github.io
-博客网站
+https://master0812.github.io
